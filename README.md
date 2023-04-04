@@ -1,4 +1,4 @@
 - I’m @angerhang, a PhD student in ML4Health at Oxford.
-- I’m interested in using mobile sensors to develop better unstanding about the human body. 
+- I’m interested in using mobile sensors to develop better unstanding about the human health. 
 - I’m looking to collaborate on wearables, mobile health, multi-modal learning and self-supervised learning.
 - 📫 hangyuan.xyz
