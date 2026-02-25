@@ -3,7 +3,7 @@ Hi, I’m @angerhang.
 
 I work at the intersection of **wearable sensing and machine learning to build systems that understand human health at scale**.
 
-🌱 I'm currently learning **Hardware and genetics**
+🌱 I'm currently learning **hardware and genetics**
 
 Fun facts:
 - Built the first movement foundation model for wearables (before Apple and Google).
