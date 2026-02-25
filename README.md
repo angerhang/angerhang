@@ -2,6 +2,11 @@ Hi, I’m @angerhang.
 
 I work at the intersection of wearable sensing and machine learning to build systems that understand human health at scale.
 
+Fun facts:
+- Built the first movement foundation model for wearables (before Apple and Google).
+- Published across sensing, machine learning, medicine, genetics, and ethics.
+- Used to journal in English; now writing in Chinese so I don’t lose it.
+
 I’m especially interested in:
 - Self-supervised learning on large wearable datasets  
 - Multimodal representation learning  
