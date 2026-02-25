@@ -1,4 +1,4 @@
 - I’m @angerhang, I work with wearables to improve human health. 
 - I’m looking to collaborate on wearables, mobile health, multi-modal learning and self-supervised learning on large datasets.
 - If you have interesting ideas or ambitious projects in mind, please do get in touch with me! 
-- 📫 hangyuan.xyz
+- Mail: angerhangy@gmail.com
