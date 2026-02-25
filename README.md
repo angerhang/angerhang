@@ -2,12 +2,15 @@ Hi, I’m @angerhang.
 
 ![](https://komarev.com/ghpvc/?username=angerhang&style=flat-square)
 
-I work at the intersection of wearable sensing and machine learning to build systems that understand human health at scale.
+I work at the intersection of **wearable sensing and machine learning to build systems that understand human health at scale**.
 
-Fun facts:
+🌱 I'm currently learning **Hardware and genetics**
+
+⚡ Fun facts:
 - Built the first movement foundation model for wearables (before Apple and Google).
 - Published across sensing, machine learning, medicine, genetics, and ethics.
 - Used to journal in English; now writing in Chinese so I don’t lose it.
+
 
 I’m especially interested in:
 - Self-supervised learning on large wearable datasets  
